@@ -1,3 +1,15 @@
+### The website somewhat looks like-:
+
+![image](https://github.com/eshan1925/greenie-assessment/assets/78701779/1d7e57b2-24d1-4324-a12a-f0e4be2ff846)
+
+![image](https://github.com/eshan1925/greenie-assessment/assets/78701779/2aafcf2f-4b1c-43a6-9e6d-38f3ad512eac)
+
+
+![image](https://github.com/eshan1925/greenie-assessment/assets/78701779/9b6f33f4-960f-4e11-ba48-1f15b2a0794d)
+
+
+### For setting it up locally follow the given steps-: (Please let me know if there is any functionality that has to be added!!! Whether frontend or backend!!!)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
